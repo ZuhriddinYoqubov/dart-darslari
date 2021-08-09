@@ -145,7 +145,7 @@ main() {
       break;
 
     case 2:
-      print("Yigirmada katta yoki teng!");
+      print("Yigirmadan katta yoki teng!");
       break;
 
     case 1:
